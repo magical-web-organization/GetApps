@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Download Nvm"
+description: "Learn about Nvm, a software that simplifies the process of managing multiple Node.js versions on the same machine"
+date: 2023-03-26 06:30:53 +0300
+last_modified_at: 2023-03-26 18:55:35 +0300
+slug: nvm
+cat: development-kits
+name: "Nvm"
+dev: "GitHub"
+link: "https://github.com/creationix/nvm"
+article: "RnJlZSBub2RlIHZlcnNpb24gbWFuYWdlciBmb3IgZGV2ZWxvcGVyc052bSBpcyBhIGZyZWUtdG8tdXNlIGRldmVsb3BtZW50IHRvb2wgZm9yIHByb2dyYW1tZXJzIGFuZCBkZXZlbG9wZXJzLiBUaGlzIHByb2dyYW1taW5nIHV0aWxpdHksIGhvc3RlZCBvbiBHaXRIdWIsIHNlcnZlcyBhcyBhIHZlcnNpb24gbWFuYWdlciBmb3IgTm9kZS5qcywgd2hpY2ggaXMgYSB3aWRlbHktdXNlZCBKYXZhU2NyaXB0IHJ1bnRpbWUgZW52aXJvbm1lbnQuIFRoaXMgaXMgYW4gb3Blbi1zb3VyY2UsIGNyb3NzLXBsYXRmb3JtIHJ1bnRpbWUgdGhhdCBoYXMgYmVlbiBwb3B1bGFyIGFzIGl0IGhlbHBzIGRldmVsb3BlcnMgY3JlYXRlIHNjYWxhYmxlIG5ldHdvcmsgYXBwbGljYXRpb25zLiBBcyBzdWNoLCB0aGVyZSBhcmUgYSBsb3Qgb2YgTm9kZS5qcyB2ZXJzaW9ucyBhdmFpbGFibGXigJRhbmQgaGF2aW5nIGEgbm9kZSB2ZXJzaW9uIG1hbmFnZXIgYXZhaWxhYmxlIGhlbHBzIHlvdSBrZWVwIHRyYWNrIG9mIHRoZW0uSWYgeW914oCZcmUgZGV2ZWxvcGluZyBhIG5ldHdvcmsgYXBwIHRoYXQgcmVxdWlyZXMgZGlmZmVyZW50IG5vZGUgdmVyc2lvbnMsIHRoZW4gTnZtIGlzIGEgc21hbGwgeWV0IGhlbHBmdWwgdG9vbC4gQWRkaXRpb25hbCBraXRzIGluY2x1ZGUgRmFjZWJvb2sgTG9naW4gZm9yIFJlYWN0IE5hdGl2ZSBsaWJyYXJpZXMuc2FtLmNtZC5wdXNoKGZ1bmN0aW9uKCkgeyBzYW0uZGlzcGxheSgncmV2aWV3LWFwcC1wYWdlLWRlc2t0b3AnKTsgfSk7TWFuYWdlIGFsbCB5b3VyIG5vZGVzTnZtIG1ha2VzIGl0IGVhc2llciBmb3IgZGV2ZWxvcGVycyB0byB0cmFjayB0aGUgTm9kZS5qcyB0aGF0IHRoZXkgdXNlIGFuZCBpbXBsZW1lbnQgYXQgdmFyaW91cyBzdGFnZXMgb2YgdGhlaXIgZGV2ZWxvcG1lbnQuIEl0IGlzIGltcG9ydGFudCBiZWNhdXNlIGNlcnRhaW4gdmVyc2lvbnMgYWxsb3cgZmVhdHVyZXMgYW5kIGludGVncmF0aW9ucyB0aGF0IGFyZSBub3QgYXZhaWxhYmxlIG9uIG90aGVycy4gQWRkaXRpb25hbGx5LCB0aGVyZSBhcmUgY2VydGFpbiB2ZXJzaW9ucyB0aGF0IG1pZ2h0IGJlIGluY29tcGF0aWJsZSB3aXRoIGNlcnRhaW4gc29mdHdhcmUgZGV2ZWxvcG1lbnQga2l0cyAoU0RLcykgYW5kIGV4dGVybmFsIHJ1bnRpbWUgZW52aXJvbm1lbnRzLiBUaGUgTlZNIHRvb2wgbWFrZXMgc3VyZSB5b3UgZm9sbG93IHdoaWNoIHRvb2xzIGFyZSBhY3RpdmUuQXNpZGUgZnJvbSBiZWluZyBhIG9uZS1zdG9wIHJlZmVyZW5jZSB0b29sIGZvciB0aGUgdmVyc2lvbiBjdXJyZW50bHkgaW4gdXNlLCBpdCBhbHNvIGFsbG93cyB5b3UgdG8gc2VhbWxlc3NseSBzd2l0Y2ggYmV0d2VlbiB2ZXJzaW9ucywgYWxsb3dpbmcgeW91IHRvIGNvbnRpbnVlIHdvcmtpbmcgYW5kIGludGVncmF0aW5nIG90aGVyIGRldmVsb3BtZW50IGFzcGVjdHMuIEl0IGFsbG93cyB5b3UgdG8gZGV2ZWxvcCBwcm9ncmFtcyBpbnRlcmNoYW5nZWFibHkgd2l0aCBsYW5ndWFnZXMgdGhhdCBjYW4gYmUgY29tcGlsZWQgaW50byBKYXZhU2NyaXB0LiBUaGUgdG9vbCBzdXBwb3J0cyBEYXJ0LCBDb2ZmZWVTY3JpcHQsIFR5cGVzY3JpcHQsIGFuZCBvdGhlciBzaW1pbGFyIGNvbXBpbGVycy4gSXTigJlzIGFsc28gZ3JlYXQgZm9yIGFwcHMgY3JlYXRlZCBmb3IgYSB3aWRlIHZhcmlldHkgb2YgZGV2aWNlcy5UaGUgcHJvZ3JhbSBkb2VzbuKAmXQgaGF2ZSBpdHMgb3duIHVwZGF0ZSBtZWNoYW5pc20sIHRob3VnaC4gWW91IHdpbGwgbmVlZCB0byBtYW51YWxseSBkb3dubG9hZCB0aGUgbGF0ZXN0IHBhY2thZ2UgZnJvbSB0aGUgR2l0SHViIHdlYnNpdGUuIEFsc28sIHVzaW5nIHRoaXMgcmVxdWlyZXMgYSBjZXJ0YWluIGxldmVsIG9mIGtub3dsZWRnZSBpbiBwcm9ncmFtbWluZyBhbmQgZGV2ZWxvcG1lbnQuIEV2ZXJ5IHJlbGVhc2VkIHZlcnNpb24gaGFzIGl0cyBvd24gbG9nIHRoYXQgYWxsb3dzIHlvdSB0byBjaGVjayB3aGV0aGVyIHRoZSB2ZXJzaW9uIG1hbmFnZXIgaXMgY29tcGF0aWJsZSB3aXRoIHRoZSBzcGVjaWZpYyBvcGVyYXRpbmcgc3lzdGVtIHlvdeKAmXJlIHVzaW5nLkZvciBzZWFtbGVzcyBhcHAgZGV2ZWxvcG1lbnRPdmVyYWxsLCBOdm0gaXMgYSBnb29kIGFwcCB0byBoZWxwIGFwcCBkZXZlbG9wZXJzIHN0YXkgb24gdG9wIG9mIHRoZSBOb2RlLmpzIHZlcnNpb24gdGhleSB1c2UuIEl0IGFsbG93cyB0aGVtIHRvIHJldGFpbiBkaWZmZXJlbnQgdmVyc2lvbnMgYW5kIGJ1aWxkcyBvZiB0aGUgSmF2YVNjcmlwdCBydW50aW1lIGVudmlyb25tZW50IGluIHRoZSBzYW1lIHN5c3RlbSBhbmQgc3dpdGNoIGJldHdlZW4gdGhlbSB3aXRob3V0IGhhdmluZyB0byBpbnRlcnJ1cHQgdGhlaXIgcHJvZ3JhbW1pbmcgc2Vzc2lvbi4gSXQgc3VwcG9ydHMgbW9zdCBjb21waWxlcnMgYW5kIGEgd2lkZSByYW5nZSBvZiBsYW5ndWFnZXMuIEl0IG1pZ2h0IHRha2Ugc29tZSB0aW1lIHRvIGdldCB1c2VkIHRvIHRob3VnaC4="
+img: ""
+use_article: no
+published: true
+---
+
+
+Node.js is an open-source, cross-platform JavaScript runtime environment frequently used for building server-side applications. It has a vast and robust community that constantly develops new packages and libraries, making it a popular choice for developers.
+
+However, having multiple Node.js versions on the same machine can be challenging. This is where Nvm comes in.
+
+## What is Nvm?
+
+Nvm stands for Node Version Manager, and as its name suggests, it manages multiple Node.js versions on the same machine. It is a command-line software that works on macOS, Linux, and Windows.
+
+Nvm enables developers to switch between different Node.js versions quickly, install new versions, and manage global and project-specific Node.js packages. Additionally, it can also be used to run multiple projects simultaneously, each with a different Node.js version.
+
+## How to Install Nvm?
+
+To install Nvm, you should follow the instructions on the [official Nvm GitHub repository](https://github.com/nvm-sh/nvm#installing-and-updating). Essentially, you will need to run a curl command to download the installation script and install it.
+
+## How to Use Nvm?
+
+After installing Nvm, you can use the command `nvm ls` to list all installed Node.js versions on your machine. You can then switch between versions with the `nvm use` command.
+
+To install a new Node.js version, you can run `nvm install <version>`. For example, `nvm install 16.6.1`. You can also set a default Node.js version for your entire system with `nvm alias default <version>`.
+
+Managing Node.js packages is also easy with Nvm. You can install packages globally with `nvm install -g <package>` or locally in a project with `nvm exec <version> npm install <package>`.
+
+## Conclusion
+
+Managing multiple Node.js versions can be a hassle, but Nvm simplifies the process. It makes it easy to switch between Node.js versions, install new ones, and manage global and project-specific packages. The best part? It's entirely free and open-source, making it accessible to anyone.

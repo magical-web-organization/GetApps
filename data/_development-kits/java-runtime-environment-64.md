@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Download Java Runtime Environment 64"
+description: "Java Runtime Environment 64, also known as JRE 64, is a software developed by Oracle that allows users to run Java applications on their computer."
+date: 2023-03-26 06:29:46 +0300
+last_modified_at: 2023-03-26 18:53:15 +0300
+slug: java-runtime-environment-64
+cat: development-kits
+name: "Java Runtime Environment 64"
+dev: "SUN"
+link: "https://www.java.com/en/download/manual.jsp"
+article: "UnVuIEphdmEgYXBwbGljYXRpb25zIG9uIDY0LWJpdCBzeXN0ZW1zSmF2YSBSdW50aW1lIEVudmlyb25tZW50IDY0IGNvbnRhaW5zIHRoZSBtb3N0IGJhc2ljIHZpcnR1YWwgbWFjaGluZSwgc29mdHdhcmUgbGlicmFyaWVzLCBhbmQgcGx1Z2lucy4gVGhpcyBmcmVlLW9mLWNoYXJnZSBkZXZlbG9wbWVudCBidW5kbGUgaXMgYSByZXF1aXJlZCBjb21wb25lbnQgdG8gcnVuIGFueSBKYXZhLWJhc2VkIGFwcGxpY2F0aW9uIG9yIHdlYiBhcHBsZXQuIFdpdGggdGhpcyB0b29sLCB5b3Ugd2lsbCBiZSBhYmxlIHRvIGJyaW5nIHRoZSBKYXZhIHBsYXRmb3JtIHRvIHlvdXIgZGVza3RvcCBhbmQgZGlzcGxheSBhZHZhbmNlZCBtdWx0aW1lZGlhIGNvbnRlbnQgYW5kIGFuaW1hdGlvbi5LZWVwIGluIG1pbmQgdGhhdCB0aGlzIHNwZWNpZmljIHZlcnNpb24gb2YgSlJFIGlzIGRlc2lnbmVkIHNvbGVseSBmb3IgNjQtYml0IFdpbmRvd3MuIE1lYW53aGlsZSwgaWYgeW91IGFyZSBhaW1pbmcgdG8gY3JlYXRlIGFuZCBjb21waWxlIHByb2dyYW1zLCBpdCBpcyBiZXN0IGZvciB5b3UgdG8gZG93bmxvYWQgSmF2YSBEZXZlbG9wbWVudCBLaXQgKEpESykgYXMgaXQgcHJvdmlkZXMgYSBmdWxsLWZlYXR1cmVkIFNESyBmb3IgSmF2YS7CoHNhbS5jbWQucHVzaChmdW5jdGlvbigpIHsgc2FtLmRpc3BsYXkoJ3Jldmlldy1hcHAtcGFnZS1kZXNrdG9wJyk7IH0pO0hvdyBkbyBJIGluc3RhbGwgNjQtYml0IEpSRT9JbnN0YWxsaW5nIEphdmEgUnVudGltZSBFbnZpcm9ubWVudCA2NCBvbiB5b3VyIHN5c3RlbSBpcyBleHRyZW1lbHkgZWFzeS4gSG93ZXZlciwgYmVmb3JlIHByb2NlZWRpbmcsIHlvdSBtdXN0IGhhdmUgYWRtaW5pc3RyYXRvciBhY2Nlc3MgdG8geW91ciBXaW5kb3dzIGRlc2t0b3AuIFRoZSBwcm9jZXNzIGhhcmRseSB0YWtlcyBhIGZldyBtaW51dGVzIHRvIGludGVncmF0ZSBKYXZhIGluIHlvdXIgc3lzdGVtIGFuZCBpbiBhbGwgbWFpbiB3ZWIgYnJvd3NlcnMgbGlrZSBNaWNyb3NvZnQgRWRnZSBvciBNb3ppbGxhIEZpcmVmb3ggYXMgd2VsbC4gQSBmZXcgY2xpY2tzIG9uIHRoZSAiTmV4dCIgYnV0dG9uIGFuZCBKYXZhIHdpbGwgYmUgaW5zdGFsbGVkIG9uIHlvdXIgY29tcHV0ZXIgaW4gbm8gdGltZS5UaGUgZW50aXJlIGluc3RhbGxhdGlvbiBwcm9jZXNzIGRvZXNuJ3QgbmVlZCB0byByZW1haW4gY29ubmVjdGVkIHRvIHRoZSBpbnRlcm5ldC4gTW9yZW92ZXIsIHRoZSBleGVjdXRhYmxlIGZpbGUgY2FuIGFsc28gYmUgY29waWVkIHRvIGEgY29tcHV0ZXIgdGhhdCBoYXMgbm8gbmV0d29yayBjb25uZWN0aW9uLiBJdCBpcyBpbXBvcnRhbnQgdG8gbm90ZSB0aGF0IHdoZW4gc2F2aW5nIHRoZSBmaWxlLCBpdCBpcyBtb3JlIGFkdmlzYWJsZSB0byBzdG9yZSBpdCBpbiBhIGtub3duIGxvY2F0aW9uIGZvciBlYXN5IHZpc2liaWxpdHkuIFlvdSBtdXN0IGNsb3NlIGFsbCB0aGUgb3BlbmVkIGFwcGxpY2F0aW9ucyBpbmNsdWRpbmcgdGhlIGJyb3dzZXIgYWhlYWQgb2YgdGhlIGluc3RhbGxtZW50LklmIHlvdSBuZWVkIHRvIGNvbmZpZ3VyZSBhbnkgb3B0aW9uIHJlZ2FyZGluZyBKUkUsIGp1c3QgZ28gdG8gdGhlIENvbnRyb2wgUGFuZWwgdGFiIGFuZCB5b3Ugd2lsbCBmaW5kIGEgSmF2YSBpY29uIHRoYXQgY2FuIGdpdmUgeW91IGFjY2VzcyB0byBhIGZ1bGx5LWZlYXR1cmVkIEphdmEgQ29udHJvbCBQYW5lbC4gUmVtZW1iZXIgdGhhdCB0aGlzIHZlcnNpb24gb2YgSmF2YSBSdW50aW1lIEVudmlyb25tZW50IGlzIG9ubHkgZm9yIDY0LWJpdCBtYWNoaW5lcy4gUnVubmluZyAzMi1iaXQgSmF2YSBvbiA2NC1iaXQgV2luZG93cyB3aWxsIGNhdXNlIGNvbXByb21pc2VzIHN1Y2ggYXMgdXBkYXRlIGlzc3Vlcy5Fc3NlbnRpYWwgUEMgZGV2ZWxvcG1lbnQgcGFja2FnZcKgQXMgbWVudGlvbmVkLCBKYXZhIFJ1bnRpbWUgRW52aXJvbm1lbnQgNjQgb2ZmZXJzIHRoZSBuZWNlc3NhcnkgdXRpbGl0aWVzIHRvIGJlIGFibGUgdG8gcnVuIGFueSBKYXZhLWJhc2VkIGRlc2t0b3AgYXBwIG9yIHdlYiBhcHBsZXQuIEl0IGNhbiBlZmZvcnRsZXNzbHkgYmUgZG93bmxvYWRlZCBhbmQgaW5zdGFsbGVkIG9uIHlvdXIgNjQtYml0IFdpbmRvd3MgY29tcHV0ZXIgd2hpY2ggd2lsbCBiZXN0IGNhdGVyIHRvIGl0cyBuZWVkcyBhcyBjb21wYXJlZCB0byB0aGUgMzItYml0IHZlcnNpb24uIEhvd2V2ZXIsIGl0IGlzIGltcG9ydGFudCB0byBub3RlIHRoYXQgaXQncyBub3QgdGhlIGRlZGljYXRlZCBzb2x1dGlvbiBpbiBkZXZlbG9waW5nIHRoZSBhcHBsaWNhdGlvbnMsIHRoYXQncyB0aGUgam9iIG9mIEpESy5BZGRpdGlvbmFsIENlcnRpZmllZCBTeXN0ZW0gQ29uZmlndXJhdGlvbnNTZWN1cml0eSBGZWF0dXJlIEVuaGFuY2VtZW50c0NoYW5nZXNBZGRpdGlvbmFsIENlcnRpZmllZCBTeXN0ZW0gQ29uZmlndXJhdGlvbnNTZWN1cml0eSBGZWF0dXJlIEVuaGFuY2VtZW50cw=="
+img: "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/5e3f2660-96d0-11e6-b6ce-00163ec9f5fa/729911343/java-runtime-environment-64-screenshot.jpg"
+use_article: no
+published: true
+---
+
+
+Java is a widely used programming language for creating applications on desktop, mobile, and web platforms. Java Runtime Environment, also known as JRE, is a software developed by Oracle that allows users to run Java applications on their computer. JRE 64 is the 64-bit version of JRE that is specifically designed to work on a 64-bit operating system.
+
+## Features of JRE 64
+
+JRE 64 comes with various features that make it a popular choice among developers and users. Here are some of its most notable features:
+
+- **Cross-Platform Compatibility**: JRE 64 is compatible with multiple operating systems such as Windows, macOS, and Linux, making it easier for developers to create applications that can run on multiple platforms.
+
+- **Automatic Updates**: JRE 64 automatically checks for new updates and installs them to ensure that users have the latest security and performance improvements.
+
+- **Java Web Start**: JRE 64 comes with Java Web Start, which allows users to easily launch Java applications directly from their web browsers.
+
+- **Java Plug-in**: JRE 64 also includes a Java plug-in that allows users to run Java applets on their web browsers. However, this feature may soon be deprecated in future versions of JRE due to security concerns.
+
+## Benefits of JRE 64
+
+Here are some of the benefits of using JRE 64:
+
+- **Secure**: JRE 64 includes various security features that prevent malicious code from running on users' computers. These features include sandboxing, code signing, and certificate validation.
+
+- **Performance**: JRE 64 is designed to optimize application performance by using just-in-time (JIT) compilation and other performance optimizations.
+
+- **Ease of Use**: JRE 64 is easy to install and use. Once installed, users can simply double-click on a Java application to launch it.
+
+## Conclusion
+
+Java Runtime Environment 64 is a powerful tool that allows users to run Java applications on their computer. With its various features and benefits, it is a popular choice among developers and users alike. If you are a developer or a user who needs to run Java applications on a 64-bit operating system, JRE 64 is definitely worth checking out.

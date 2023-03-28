@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Download EditPlus"
+description: EditPlus is a powerful text editor for coding and editing multiple types of files, including HTML, CSS, Java, and more. Learn more about its features, pricing, and benefits in this comprehensive guide.
+date: 2023-03-26 06:39:25 +0300
+last_modified_at: 2023-03-27 01:50:04 +0300
+slug: editplus
+cat: programming-languages
+name: "EditPlus"
+dev: "Editplus"
+link: "https://www.editplus.com"
+article: "RWRpdFBsdXMgdGV4dCBhbmQgSFRNTCBFZGl0b3IgZm9yIFdpbmRvd3NFZGl0UGx1cyBpcyBhIHRleHQgZWRpdG9yLCBIVE1MIGVkaXRvciwgUEhQIGVkaXRvciwgSmF2YSBlZGl0b3IgYW5kIEhleCBWaWV3ZXIgZm9yIFdpbmRvd3MuIFdoaWxlIGl0IGNhbiBzZXJ2ZSBhcyBhIGdvb2QgTm90ZXBhZCByZXBsYWNlbWVudCwgaXQgYWxzbyBvZmZlcnMgbWFueSBwb3dlcmZ1bCBmZWF0dXJlcyBmb3IgV2ViIHBhZ2UgYXV0aG9ycyBhbmQgcHJvZ3JhbW1lcnMuV2hhdCBFZGl0UGx1cyBvZmZlcnM6c2FtLmNtZC5wdXNoKGZ1bmN0aW9uKCkgeyBzYW0uZGlzcGxheSgncmV2aWV3LWFwcC1wYWdlLWRlc2t0b3AnKTsgfSk7U3ludGF4IGhpZ2hsaWdodGluZyBmb3IgSFRNTCwgUEhQLCBKYXZhLCBDL0MrKywgQ1NTLCBBU1AsIFBlcmwsIEphdmFTY3JpcHQsIFZCU2NyaXB0LCBQeXRob24gYW5kIFJ1Ynkgb24gUmFpbHMuIEFsc28sIGl0IGNhbiBiZSBleHRlbmRlZCBmb3Igb3RoZXIgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGJhc2VkIG9uIGN1c3RvbSBzeW50YXggZmlsZXMuU2VhbWxlc3MgV2ViIGJyb3dzZXIgZm9yIHByZXZpZXdpbmcgSFRNTCBwYWdlcywgYW5kIEZUUCBjb21tYW5kcyBmb3IgdXBsb2FkaW5nIGxvY2FsIGZpbGVzIHRvIEZUUCBzZXJ2ZXIuT3RoZXIgZmVhdHVyZXMgaW5jbHVkZSBIZXggVmlld2VyLCBIVE1MIHRvb2xiYXIsIHVzZXIgdG9vbHMsIGxpbmUgbnVtYmVyLCBydWxlciwgVVJMIGhpZ2hsaWdodGluZywgYXV0byBjb21wbGV0aW9uLCBjbGlwdGV4dCwgY29sdW1uIHNlbGVjdGlvbiwgcG93ZXJmdWwgc2VhcmNoIGFuZCByZXBsYWNlLCBtdWx0aXBsZSB1bmRvL3JlZG8sIHNwZWxsIGNoZWNrZXIsIGN1c3RvbWl6YWJsZSBrZXlib2FyZCBzaG9ydGN1dHMsIGFuZCBtb3JlLlN1cHBvcnRzIFRTVk4gY29tbWFuZHMgKCdGaWxlJy0+J1RTVk4nKVN1cHBvcnRzICdVc2UgUGFnZWFudCcgb3B0aW9uIGZvciBzZnRwU3VwcG9ydHMgbWVudSBiaXRtYXBzIG9uIFZpc3RhLzdIaWdobGlnaHRzIGFsbCBvY2N1cnJlbmNlcyBvZiBzZWxlY3RlZCB3b3JkICgnVmlldyctPidXb3JkIEhpZ2hsaWdodGluZycpJ0NvcHkgb24gTW91c2UgUmVsZWFzZScgb3B0aW9uICgnRWRpdCctPidDbGlwYm9hcmQnKUhleCBWaWV3ZXIgc3VwcG9ydHMgJ1Nob3cgbm9uLUFTQ0lJIGxldHRlcnMnIG9wdGlvbidSdW4gcGhwLmV4ZSBvbiBwaHAgZmlsZXMgaW4gYnJvd3NlciBwcmV2aWV3JyBvcHRpb24gKCdQcmVmZXJlbmNlcyctPidUb29scycpJ1ByZWZlcmVuY2VzJy0+J1ByaW50JyBkaWFsb2cgYm94IHN1cHBvcnRzICdIaWRlIGxpbmUgbnVtYmVycycgb3B0aW9uJ01pbi4gbGluZSBudW1iZXIgZGlnaXRzJyBvcHRpb24gKCdQcmVmZXJlbmNlcyctPidMYXlvdXQnKUludGVybmFsIGJyb3dzZXIgc3VwcG9ydHMgSUU4L0lFOUludGVybmFsIGJyb3dzZXIgc3VwcG9ydHMgZGlzcGxheWluZyB0aGUgaW5mb3JtYXRpb24gYmFySW50ZXJuYWwgYnJvd3NlciBub3cgb3BlbnMgbmV3IHdpbmRvdyBhcyBhIHRhYkNvbWJvYm94ICdhdXRvIGFwcGVuZCcgb3B0aW9uICgnUHJlZmVyZW5jZXMnLT4nR2VuZXJhbCcpU3VwcG9ydHMgJChDdXJMaW5lVGV4dCkgYXJndW1lbnQgbWFjcm8gZm9yIHBhc3NpbmcgY3VycmVudCBsaW5lIHRvIHVzZXIgdG9vbEZpbmQgaW4gRmlsZXMgZGlzcGxheXMgY3VycmVudCBmaWxlIG5hbWUgb24gdGhlIFN0YXR1cyBCYXInSFRNTCBDb2xvcicgY29tbWFuZCBvbiB0aGUgcG9wdXAgbWVudSdDb3B5IE5hbWUnIGNvbW1hbmQgb24gdGhlIERvY3VtZW50IFNlbGVjdG9yIHBvcHVwIG1lbnVVcGRhdGVkIHRvb2xiYXIgYnV0dG9uc0FsbG93cyBkb3VibGUgY2xpY2sgb24gdGhlIENoYW5nZSBGaWxlIEZvcm1hdCBkaWFsb2cgYm94Q2hhbmdlc1N1cHBvcnRzIFRTVk4gY29tbWFuZHMgKCdGaWxlJy0+J1RTVk4nKVN1cHBvcnRzICdVc2UgUGFnZWFudCcgb3B0aW9uIGZvciBzZnRwU3VwcG9ydHMgbWVudSBiaXRtYXBzIG9uIFZpc3RhLzdIaWdobGlnaHRzIGFsbCBvY2N1cnJlbmNlcyBvZiBzZWxlY3RlZCB3b3JkICgnVmlldyctPidXb3JkIEhpZ2hsaWdodGluZycpJ0NvcHkgb24gTW91c2UgUmVsZWFzZScgb3B0aW9uICgnRWRpdCctPidDbGlwYm9hcmQnKUhleCBWaWV3ZXIgc3VwcG9ydHMgJ1Nob3cgbm9uLUFTQ0lJIGxldHRlcnMnIG9wdGlvbidSdW4gcGhwLmV4ZSBvbiBwaHAgZmlsZXMgaW4gYnJvd3NlciBwcmV2aWV3JyBvcHRpb24gKCdQcmVmZXJlbmNlcyctPidUb29scycpJ1ByZWZlcmVuY2VzJy0+J1ByaW50JyBkaWFsb2cgYm94IHN1cHBvcnRzICdIaWRlIGxpbmUgbnVtYmVycycgb3B0aW9uJ01pbi4gbGluZSBudW1iZXIgZGlnaXRzJyBvcHRpb24gKCdQcmVmZXJlbmNlcyctPidMYXlvdXQnKUludGVybmFsIGJyb3dzZXIgc3VwcG9ydHMgSUU4L0lFOUludGVybmFsIGJyb3dzZXIgc3VwcG9ydHMgZGlzcGxheWluZyB0aGUgaW5mb3JtYXRpb24gYmFySW50ZXJuYWwgYnJvd3NlciBub3cgb3BlbnMgbmV3IHdpbmRvdyBhcyBhIHRhYkNvbWJvYm94ICdhdXRvIGFwcGVuZCcgb3B0aW9uICgnUHJlZmVyZW5jZXMnLT4nR2VuZXJhbCcpU3VwcG9ydHMgJChDdXJMaW5lVGV4dCkgYXJndW1lbnQgbWFjcm8gZm9yIHBhc3NpbmcgY3VycmVudCBsaW5lIHRvIHVzZXIgdG9vbEZpbmQgaW4gRmlsZXMgZGlzcGxheXMgY3VycmVudCBmaWxlIG5hbWUgb24gdGhlIFN0YXR1cyBCYXInSFRNTCBDb2xvcicgY29tbWFuZCBvbiB0aGUgcG9wdXAgbWVudSdDb3B5IE5hbWUnIGNvbW1hbmQgb24gdGhlIERvY3VtZW50IFNlbGVjdG9yIHBvcHVwIG1lbnVVcGRhdGVkIHRvb2xiYXIgYnV0dG9uc0FsbG93cyBkb3VibGUgY2xpY2sgb24gdGhlIENoYW5nZSBGaWxlIEZvcm1hdCBkaWFsb2cgYm94"
+img: "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/80a01568-9a61-11e6-9160-00163ec9f5fa/599574063/editplus-screenshot.png"
+use_article: no
+published: true
+---
+
+
+EditPlus is a versatile software tool that offers a range of features to programmers, web developers, and anyone who works with text files. It is a lightweight and convenient editor with an intuitive interface, designed to make coding and editing tasks faster and more efficient. In this article, we will provide an overview of the software's features, pricing, and benefits.
+
+## Key Features
+
+Some of the key features of EditPlus are:
+
+- Syntax highlighting for many programming languages and documents, including HTML, CSS, Java, Python, and more
+- Code folding and indentations to organize and highlight code structures
+- FTP and SFTP capabilities to upload and download files from remote servers
+- Auto-completion of commonly used code snippets, tags, and functions
+- Regular expression search and replace for advanced text manipulation
+- Multiple document interface to open and edit multiple files simultaneously
+- Customizable keyboard shortcuts, file templates, and user tools
+- Built-in browser preview and HTML validation tools
+
+With its comprehensive set of features, EditPlus has been a popular choice for programmers and web developers for over two decades.
+
+## Benefits of EditPlus
+
+There are several benefits of using EditPlus as your primary text editor:
+
+- Lightweight and fast: EditPlus is a small and efficient program that requires minimal resources, making it a great option for large text files and slow computers.
+- Customizable and flexible: You can customize the interface, syntax highlighting, and tools according to your preferences and workflow. You can also create macros, scripts, and plugins to automate repetitive tasks and enhance productivity.
+- Affordable and no recurring fees: Unlike many other text editors, EditPlus is a one-time purchase with a lifetime license. You don't have to worry about recurring fees or subscriptions to use the software.
+- Great community and support: EditPlus has a large and active community of users who share tips, features, and plugins to improve the software's capabilities. You can also find help and support through the official website and forums.
+
+## Pricing and Licensing
+
+EditPlus is available for Windows and can be downloaded from the official website. The software costs $35 for a single user license, which includes lifetime updates and support. Discounts are available for bulk purchases, education, and non-profit organizations.
+
+There is also a free trial version available for 30 days, which lets you evaluate the software's performance and features before making the purchase.
+
+## Conclusion
+
+EditPlus is a powerful and reliable text editor that offers a range of features for programmers, developers, and writers. Its lightweight and customizable interface, coupled with its affordable pricing and strong community support, makes it an ideal choice for anyone who deals with text files regularly. Whether you are a beginner or an experienced coder, EditPlus can help you streamline your workflow and stay productive.

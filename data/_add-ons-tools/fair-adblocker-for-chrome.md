@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Download Fair AdBlocker for Chrome"
+description: Learn about Fair AdBlocker for Chrome, a free ad-blocking extension that promotes ethical advertising practices while also improving user experience.
+date: 2023-03-26 05:22:11 +0300
+last_modified_at: 2023-03-26 14:12:38 +0300
+slug: fair-adblocker-for-chrome
+cat: add-ons-tools
+name: "Fair AdBlocker for Chrome"
+dev: "standsapp"
+link: "https://chrome.google.com/webstore/detail/fair-adblocker/lgblnfidahcdcjddiepkckcfdhpknnjh"
+article: "QmxvY2sgYWRzIGFuZCBtYWx3YXJlIHdpdGggdGhpcyBhcHBGYWlyIEFkQmxvY2tlciBpcyBhIGZyZWUgYWQtYmxvY2tpbmcgYXBwIHdoZXJlIHlvdSBjYW4gZmlsdGVyIG91dCBwb3AtdXBzIGFuZCBtYWx3YXJlIHdoaWNoIHlvdeKAmWxsIGhhdmUgZnVsbCBjb250cm9sIG9mLiBZb3UgY2FuIGV2ZW4gYnJvd3NlIGZhc3RlciB3aXRoIHRoaXMgYnJvd3NlciBhZGQtb24sIHdoaWxlIGFsc28gcHJvdGVjdGluZyB5b3VyIHByaXZhY3kgYW5kIGRldmljZSBmcm9tIG9ubGluZSB0cmFja2luZy7CoFdpdGggRmFpciBBZEJsb2NrZXIsIHlvdSBjYW4gYmxvY2sgZGlmZmVyZW50IGFkIHR5cGVzLCBzdWNoIGFzIGF1dG9wbGF5IHZpZGVvIGFkcywgc29jaWFsIG1lZGlhIGFkcywgZXhwYW5kaW5nIGFkcywgaW50ZXJzdGl0aWFsIHBhZ2UgYWRzLCBhbmQgb3ZlcmxheSBhZHMuIFNpbWlsYXIgdG8gb3RoZXIgdG9vbHMgbGlrZSBBZGJsb2NrLCBpdCBpcyBlYXN5IHRvIHVzZSwgaGFzIGEgZnJpZW5kbHkgdXNlciBpbnRlcmZhY2UsIGFuZCBpdCBhbHNvIGxldHMgeW91IGRlY2lkZSBvbiBob3cgbWFueSBhZHMgeW91IHdhbnQgdG8gYmxvY2suc2FtLmNtZC5wdXNoKGZ1bmN0aW9uKCkgeyBzYW0uZGlzcGxheSgncmV2aWV3LWFwcC1wYWdlLWRlc2t0b3AnKTsgfSk7RmFzdCBhbmQgc2VjdXJlWW91IGNhbiBleHBlcmllbmNlIGFkLWZyZWUgYW5kIGZhc3RlciB3ZWIgYnJvd3Npbmcgd2l0aCB0aGUgaGVscCBvZiBGYWlyIEFkQmxvY2tlci4gQXNpZGUgZnJvbSB0aGF0LCBpdCBzdG9wcyBjb21wYW5pZXMgZnJvbSBjcmVhdGluZyBwcm9maWxlcyBvZiB5b3UgYW5kIHNlbGxpbmcgeW91ciBpbmZvcm1hdGlvbiB3aXRob3V0IGZpcnN0IG9idGFpbmluZyB5b3VyIGNvbnNlbnQgb3IgYXV0aG9yaXphdGlvbi4gWW91ciBkZXZpY2Ugd2lsbCBiZSBwcm90ZWN0ZWQgZnJvbSBwb3RlbnRpYWxseSBoYXJtZnVsIGZvcm1zIG9mIG1hbHdhcmUsIGFkd2FyZSwgYW5kIGV2ZW4gdHJhY2tlcnMgdGhhbmtzIHRvIHRoZSBzb2Z0d2FyZS4gSXQgYWxzbyByZWR1Y2VzIHRoZSBhbW91bnQgb2YgdHJhZmZpYyBhbmQgcXVpY2tlbnMgdGhlIGxvYWRpbmcgb2YgcGFnZXMuQXMgeW91IGNvbnRpbnVlIHRvIG1ha2UgdXNlIG9mIHRoZSBzb2Z0d2FyZSwgYm90aCBpdHMgZnVuY3Rpb24gYW5kIGl0cyBhcHBlYXJhbmNlIHdpbGwgYmUgcHJlc2VydmVkIGJ5IHRoZSBwcm9ncmFtLiBBc2lkZSBmcm9tIHRoYXQsIGl0IHdpbGwgcHJvdGVjdCBjaGlsZHJlbiB3aGlsZSB0aGV5IGFyZSBvbmxpbmUgYnkgY29uY2VhbGluZyBvciBibG9ja2luZyB1bnN1aXRhYmxlIGNvbnRlbnQgdGhhdCBpcyBpbnRlbmRlZCBmb3IgYWR1bHRzLiBBbGwgZnJhdWR1bGVudCBhbmQgcGhpc2hpbmcgd2Vic2l0ZXMsIGFzIHdlbGwgYXMgYXR0YWNrcyBmcm9tIHRob3NlIHdlYnNpdGVzLCB3aWxsIGFsc28gYmUgZmlsdGVyZWQgb3V0LkFzIGdyZWF0IGFzIGl0IHNvdW5kcywgaG93ZXZlciwgdGhlcmUgYXJlIHNvbWUgZG93bnNpZGVzIHRvIHRoZSBzb2Z0d2FyZSwgdGhhdCBpcyB3aGVuIGl0IGRvZXNu4oCZdCBsb2FkIHByb3Blcmx5IG9uIHNvbWUgcGFnZXMgYW5kIGl0IHN0aWxsIGFsbG93cyBzb21lIGFkcyBidXQgbm90IGFsbCB0byBiZSBwbGF5ZWQuIFRoaXMgd291bGQgcmVxdWlyZSB5b3UgdG8gcmVmcmVzaCB0aGUgcGFnZSBhZ2FpbiB3aGljaCBjYW4gYmUgYSB0YWQgYml0IG9mIGEgbnVpc2FuY2UgaWYgeW91IGRvbid0IGhhdmUgdGhlIHBhdGllbmNlIGZvciBpdC5HcmVhdCBhZC1ibG9ja2luZyBzb2Z0d2FyZURlc3BpdGUgYSBmbGF3IHRoYXQgRmFpciBBZEJsb2NrZXIgaGFzIHdoZW4gaXQgY29tZXMgdG8gbG9hZGluZyBvbiBzb21lIHBhZ2VzLCBvdmVyYWxsLCBpdCBpcyBhIGdyZWF0IGFkLWJsb2NrZXIgdGhhdCBrZWVwcyB5b3VyIGRldmljZSBzYWZlIGZyb20gYWRzLCBtYWx3YXJlLCBhbmQgcGhpc2hpbmcgc2l0ZXMuIFRoZSBzb2Z0d2FyZSBpcyBoaWdobHkgcmVjb21tZW5kZWQgdG8gdGhvc2Ugd2hvIHdhbnQgdG8gYXZvaWQgYWRzIHRoYXQga2VlcCBvbiBwb3BwaW5nIG91dCBvZiBub3doZXJlLCBhbmQgdG8gdGhvc2Ugd2hvIHdhbnQgdG8gbWFrZSBicm93c2luZyBzZWN1cmUgYW5kIGZhc3Qu"
+img: "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/66c6de7b-bf8c-4fad-8384-2f646b0acb6d/3436099203/fair-adblocker-for-chrome-screenshot.jpg"
+use_article: no
+published: true
+---
+
+
+Ads have always been an annoyance for Internet users. Not only do they slow down web pages, but they also get in the way of the user's browsing experience. For years now, ad-blockers have been the go-to solution for dealing with this problem. However, ad-blockers aren't perfect, and some argue that they also negatively impact the revenue of publishers and content creators. This is where Fair AdBlocker comes in. 
+
+## What is Fair AdBlocker?
+
+Fair AdBlocker for Chrome is a free ad-blocking extension that promotes ethical advertising practices while still improving user experience. Developed by Fair Adblock, this extension blocks annoying and intrusive ads, but keeps non-intrusive ads that are created by publishers who comply with its policies. 
+
+## Features
+
+- Blocks intrusive ads: Fair AdBlocker aims at blocking ads that negatively impact the user experience, such as pop-ups or auto-playing videos.
+- Allows non-intrusive ads: Non-intrusive ads are created by publishers who comply with ethical advertising practices, such as not tracking the user's data or displaying ads that take over the whole screen.
+- Improves speed: By blocking ads and scripts, Fair AdBlocker can speed up web pages by up to 5x.
+- Saves data: By blocking ads, users can save up to 40% of their data usage.
+
+## How does it work?
+
+Fair AdBlocker works by analyzing the code of web pages and detecting which elements are ads. If the ad is intrusive, it is immediately blocked. If the ad is considered non-intrusive, it is allowed. Fair AdBlocker also has a whitelist of publishers who comply with its policies, so their ads are always allowed regardless of their type.
+
+## Conclusion
+
+If you're looking for an ad-blocker that promotes ethical advertising practices while still improving your browsing experience, Fair AdBlocker for Chrome might be worth considering. By blocking intrusive ads and allowing non-intrusive ads, you can have a cleaner and faster browsing experience while also supporting publishers who value ethical advertising practices.

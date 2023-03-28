@@ -577,3 +577,23 @@ input:checked + .slider:before {
 	left: unset;
 	right: 10px;
 }
+
+
+
+
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+display: block;
+cursor: pointer;
+text-align: center;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}

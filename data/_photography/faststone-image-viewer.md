@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Download FastStone Image Viewer"
+description: FastStone Image Viewer is a free and powerful image viewer, editor, and converter for Windows. Read on to learn more.
+date: 2023-03-26 06:20:39 +0300
+last_modified_at: 2023-03-27 01:31:41 +0300
+slug: faststone-image-viewer
+cat: photography
+name: "FastStone Image Viewer"
+dev: "FastStone"
+link: "http://www.faststone.org/FSViewerDetail.htm"
+article: "UG93ZXJmdWwgZnJlZSBpbWFnZSB2aWV3aW5nIHN1aXRlIHdpdGggYWRkaXRpb25hbCBlZGl0aW5nIG9wdGlvbnNGYXN0U3RvbmUgSW1hZ2UgVmlld2VyJ3MgbmFtZSBpcyBzbGlnaHRseSBtaXNsZWFkaW5nLCBhcyBpdCBpcyBib3RoIGFuIGltYWdlIHZpZXdlcsKgZm9yIHBob3RvZ3JhcGhpZXMgYW5kIGFuIGVkaXRvci4gV2hpbGUgaXQgY2FuJ3QgY29tcGV0ZSB3aXRoIHRoZSBuaWZ0eSBmZWF0dXJlcyBpbiBsZWFkaW5nIGltYWdlLWVkaXRpbmcgc3VpdGVzLCBpdCdzIHZpZXdpbmcgb3B0aW9ucyBhcmUgdG9wIG5vdGNoLiBJbWFnZSB2aWV3aW5nIGFuZCBlZGl0aW5nRmFzdFN0b25lIEltYWdlIFZpZXdlciBjb21lcyB3aXRoIGEgZ3JlYXQgcmFuZ2Ugb2YgaW1hZ2Ugdmlld2luZyBvcHRpb25zLiBGaXJzdCBvZmYsIHRoZXJlIGlzIHRoZSBzdGFuZGFyZCBmaWxlIGJyb3dzZXIgdGhhdCBkaXNwbGF5cyB0aHVtYm5haWxzIG9mIHlvdXIgaW1hZ2VzIHdpdGggYSBwcmV2aWV3IHdpbmRvdyBmb3IgdGhlIGZpbGUgdGhhdCBpcyBjdXJyZW50bHkgc2VsZWN0ZWQuIFRoZSBwcm9ncmFtIGFsc28gb2ZmZXJzIGFuIG9wdGlvbiB0byBjaGVjayBvdXQgaW5kaXZpZHVhbCBwaWN0dXJlcyBpbiBmdWxsLXNjcmVlbiBtb2RlIGFuZCBhcyBhIHNsaWRlc2hvdyB3aXRoIGRpZmZlcmVudCBiYWNrZ3JvdW5kIGVmZmVjdHMsIGFzIHdlbGwgYXMgdGhlIGFiaWxpdHkgdG8gem9vbSBhbmQgbWFnbmlmeSB5b3VyIHBob3Rvcy5zYW0uY21kLnB1c2goZnVuY3Rpb24oKSB7IHNhbS5kaXNwbGF5KCdyZXZpZXctYXBwLXBhZ2UtZGVza3RvcCcpOyB9KTtPdGhlciBvcHRpb25zIGluY2x1ZGUgdGhlIGFiaWxpdHkgdG8gY29tcGFyZSB1cCB0byBmb3VyIGltYWdlcyBzaWRlIGJ5IHNpZGUgc28geW91IGNhbiBkZWNpZGUgd2hpY2ggb25lcyB5b3Ugd2FudCB0byBrZWVwLCBhcyB3ZWxsIGFzIHRhZyB5b3VyIGltYWdlcyAod2l0aCBsb2NhdGlvbikgYW5kIHZpZXcgRVhJRiBpbmZvcm1hdGlvbiAoY2FtZXJhIHNldHRpbmdzIGFuZCBzY2VuZSBkYXRhKS5Ib3dldmVyLCBGYXN0U3RvbmUgSW1hZ2UgVmlld2VyIGdvZXMgYmV5b25kIHNpbXBseSBkaXNwbGF5aW5nIGltYWdlcy4gWW91IGNhbiBwZXJmb3JtIHF1aWNrIGVkaXRzIHRvIHJlYWxseSBicmluZyBvdXQgdGhlIGJlc3QgaW4geW91ciBwaWNzLCBzdWNoIGFzIGFkZGluZyBhIHN0eWxpc2ggZnJhbWUgdGhhdCBhY3RzIGFzIGEgbWFzayB0byByZWR1Y2UgdGhlIHNoYXJwIGVkZ2VzIG9yIGFkZGluZyBib3JkZXJzLCB3YXRlcm1hcmtzLCBhbmQgc2tldGNoIGFuZCBvaWwgcGFpbnRpbmcgZWZmZWN0cy5PciwgaWYgeW91IGhhcHBlbiB0byBiZSB3b3JraW5nIHdpdGggM0QsIEZhc3RTdG9uZSBJbWFnZSBWaWV3ZXIgYWxzbyBvZmZlcnMgYSB2ZXJ5IGVmZmVjdGl2ZSBidW1wIG1hcCBvcHRpb24gdGhhdCB3aWxsIHNlcnZlIHlvdSB3ZWxsIGZvciB0ZXh0dXJpbmcuIFRoZXJlIGFyZSBhbHNvIHRoZSBzdGFuZGFyZCB0b29scyBmb3IgcmVzaXppbmcsIGNyb3BwaW5nLCBicmlnaHRuZXNzL2RhcmtuZXNzIGFkanVzdG1lbnQsIHNoYXJwbmVzcy9ibHVyLCBncmF5c2NhbGUgYW5kIHJlZC1leWUgcmVtb3ZhbCwgYXMgd2VsbCBhcyBtb3JlIGFkdmFuY2VkIHRvb2xzIGZvciBhZGp1c3RpbmcgbGV2ZWxzLCBjdXJ2ZXMsIGFuZCBsaWdodGluZy5PdGhlciBmZWF0dXJlcyBpbmNsdWRlIGJhdGNoIGNvbnZlcnRpbmcgaW50byBQREYsIEpQRywgUE5HIGFuZCBUSUZGIGZpbGVzIGFuZCB0aGUgb3B0aW9uIHRvIHRha2Ugc2NyZWVuIGNhcHR1cmVzIGFuZCBhZGQgdGV4dCwgbGluZXMsIGFuZCBzaGFwZXMgaW4gdGhlIERyYXcgQm9hcmQgbWVudS4gRmFzdFN0b25lIEltYWdlIFZpZXdlciBhbHNvIHN1cHBvcnRzIHRvdWNoIGludGVyZmFjZSBpbnB1dC4gT3Zlci1jb21wbGljYXRlZCBsYXlvdXRGYXN0U3RvbmUgSW1hZ2UgVmlld2VyJ3MgaW50ZXJmYWNlIGxvb2tzIGEgYml0IG91dGRhdGVkIGFuZCBpdCdzIG11Y2ggdG9vIGJ1c3kuIEl0J3Mgbm90IGltbWVkaWF0ZWx5IG9idmlvdXMgd2hhdCBhbGwgdGhlIGJ1dHRvbnMgYXQgdGhlIHRvcCBvZiB0aGUgc2NyZWVuIGRvIGFuZCBpdCBvdmVyIGNvbXBsaWNhdGVzIHRoZSBsYXlvdXQuIEJ1dCB0aGUgZHJvcC1kb3duIG1lbnVzIGFyZSB3ZWxsIG9yZ2FuaXplZCBhbmQgbG9naWNhbCwgd2hpY2ggbWFrZXMgaXQgbXVjaCBlYXNpZXIgdG8gYWNjZXNzIHRoZSBvcHRpb25zIHlvdSBuZWVkLldoZW4geW91IGFyZSB2aWV3aW5nIHlvdXIgaW1hZ2VzIGluIGZ1bGwtc2NyZWVuIG1vZGUgeW91IGNhbiBzdGlsbCBhY2Nlc3MgdGhlIGRpZmZlcmVudCB0b29scyBieSBob3ZlcmluZyB5b3VyIG1vdXNlIG92ZXIgdGhlIGZvdXIgY29ybmVycyBvZiB0aGUgc2NyZWVuLCB3aGljaCBpcyBhIHVzZWZ1bCB0cmljayBhbmQgaGVscHMgbWFrZSB0aGUgcHJvZ3JhbSBtb3JlIHVzZXItZnJpZW5kbHkuIE9yIHlvdSBjYW4gcmlnaHQgY2xpY2sgb24gdGhlIHNjcmVlbiB0byBnZXQgc29tZSBiYXNpYyBuYXZpZ2F0aW9uIGFuZCBlZGl0aW5nIG9wdGlvbnMuWW91IGNhbiBjaGFuZ2UgdGhlIHNraW4gb2YgRmFzdFN0b25lIEltYWdlIFZpZXdlciBpZiB5b3UgcHJlZmVyIGEgZGlmZmVyZW50IHN0eWxlIChNYWNYLCBXaW5kb3dzIFhQLCBXaW5kb3dzIENsYXNzaWMgZXRjKS5TdGljayB0byBpbWFnZSB2aWV3aW5nVGhlcmUncyBoZWFsdGh5IGNvbXBldGl0aW9uIGluIHRoZSBpbWFnZSB2aWV3ZXIgYXJlbmEgYW5kIEZhc3RTdG9uZSBJbWFnZSBWaWV3ZXIgb2ZmZXJzIHBsZW50eSBvZiBncmVhdCBmZWF0dXJlcyBpbiBhIGZhaXJseSBlYXN5LXRvLXVzZSAoaWYgbm90IHZlcnkgYXR0cmFjdGl2ZSkgcGFja2FnZS4gSG93ZXZlciwgdGhlIHByb2dyYW0gc2VlbXMgdG8gYmUgaGF2aW5nIGFuIGlkZW50aXR5IGNyaXNpcyBhbmQgY2FuJ3QgcXVpdGUgZGVjaWRlIGlmIGl0J3MgYW4gaW1hZ2UgZWRpdG9yIG9yIHZpZXdlci4gSWYgRmFzdFN0b25lIEltYWdlIFZpZXdlciBzdGlja3MgdG8gZGV2ZWxvcGluZyBpdHMgcmFuZ2Ugb2YgZ3JlYXQgb3B0aW9ucyBmb3Igdmlld2luZyBpbWFnZXMgdGhlbiBpdCB3aWxsIHJlbWFpbiBhIHRvcCBjaG9pY2UgdG8gZG93bmxvYWQuIFRoZSBwb3J0YWJsZSB2ZXJzaW9uIGNhbiBiZSBmb3VuZCBvbiB0aGUgZGV2ZWxvcGVyJ3Mgd2Vic2l0ZS4gRmluYWxseSwgaWYgeW91IGFyZSBsb29raW5nIGZvciBtb3JlIGZyZWUgYWx0ZXJuYXRpdmVzIHRvIHRoaXMgcHJvZ3JhbSwgd2UgcmVjb21tZW5kIHlvdSB0byBkb3dubG9hZCBJcmZhblZpZXcgb3IgWG5WaWV3Lg=="
+img: "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/61b195d8-96d7-11e6-a952-00163ec9f5fa/3547291137/faststone-image-viewer-02-03-2018%2013-14-29.png"
+use_article: no
+published: true
+---
+## Introduction
+
+FastStone Image Viewer is a feature-packed image viewer, editor, and converter that supports a wide range of image formats. It is free for individual use and is compatible with Windows operating systems. The software provides a user-friendly interface and supports basic image editing features. 
+
+## Features
+
+The following are the key features of FastStone Image Viewer:
+
+### Viewing
+
+- **Full-screen mode**: The software supports full-screen mode for easy viewing of images.
+- **Thumbnail browsing**: FastStone Image Viewer provides thumbnail browsing, which enables quick access to all images in a certain folder.
+- **Zoom and Pan**: You can zoom in and out of images and use the pan feature to move around the image.
+- **Slideshow**: It supports the creation of slideshows with various transitional effects.
+
+### Editing
+
+- **Red-eye removal**: FastStone Image Viewer has a built-in red-eye removal tool. 
+- **Color adjustments**: The software supports color adjustments like brightness, contrast, and saturation. 
+- **Cropping**: It has a cropping tool to cut off unwanted parts of the image.
+- **Resizing**: It supports resizing of images with different resizing algorithms. 
+
+### Conversion
+
+- **Batch conversion**: FastStone Image Viewer supports batch conversion of images in various formats. 
+- **Rename**: It provides a feature for renaming images in batch mode. 
+- **Format conversion**: The software can convert images from one format to another. 
+
+## Pros and Cons
+
+### Pros
+
+- It is free for individual use.
+- It supports a wide range of image formats.
+- It provides a user-friendly interface.
+- It has reliable and fast performance.
+
+### Cons
+
+- It is not available for other operating systems apart from Windows.
+- It lacks advanced features, such as layer and mask editing.
+- It does not support RAW files for advanced image editing.
+
+## Conclusion
+
+FastStone Image Viewer is a great image viewer, editor, and converter for basic image modification needs. It has a simple user interface, and it is easy to use. If you're looking for an image viewer that is free, easy to use, and compatible with Windows operating systems, then FastStone Image Viewer is worth checking out. While it may lack advanced features, it provides enough options for basic image editing and conversion.

@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Download DNS Jumper"
+description: DNS Jumper is a freeware program that helps manage and switch between DNS servers quickly and easily. Learn more about its features and benefits here.
+date: 2023-03-26 06:36:22 +0300
+last_modified_at: 2023-03-27 00:42:41 +0300
+slug: dns-jumper
+cat: networking
+name: "DNS Jumper"
+dev: "Sordum"
+link: "https://www.sordum.org/7952/dns-jumper-v2-2/"
+article: "RnJlZSB0b29sIGZvciBjaGFuZ2luZyBETlMgc2V0dGluZ3NETlMgSnVtcGVyIGlzIGEgZnJlZSB0b29sIHBlcmZlY3QgZm9yIG5ldHdvcmsgZGV2ZWxvcG1lbnQgJiBJVCBwZXJzb25uZWwgd2hvIG5lZWQgdG8gbWFrZSBxdWljayBtb2RpZmljYXRpb25zIHRvIHRoZWlyIERvbWFpbiBOYW1lIFNlcnZlciAoRE5TKS4gVGhpcyBpcyB2aXRhbCBmb3IgYSBudW1iZXIgb2YgcHVycG9zZXMsIGZyb20gZmluZGluZyBzZWN1cmUgY29ubmVjdGlvbnMgdG8gYWNjZXNzaW5nIG90aGVyd2lzZSBibG9ja2VkIHNpdGVzLiBBbHNvLCBtYWludGVuYW5jZSB0ZWFtcyBjYW4gdXNlIGl0IHRvIGNoZWNrIElQIHJlc3BvbnNlIHRpbWVzLkZvciB0aGlzIHNwZWNpYWxpemVkIHB1cnBvc2UsIEROUyBKdW1wZXIgaXMgcGFydGx5IHNpbWlsYXIgdG8gb3RoZXIgRE5TIHV0aWxpdHkgYXBwcyBsaWtlIG5hbWViZW5jaCBhbmQgTmV0U2V0TWFuLiBUaGVzZSBhcHBzIHNoYXJlIHNvbWUgc2ltaWxhciBjYXBhYmlsaXRpZXMgZm9yIHR3ZWFraW5nIEROUyBzZXR0aW5ncyBidXQgdGhlIEp1bXBlciByZW1haW5zIHRoZSBvbmx5IG9uZSB3aXRoIGl0cyBmdWxsIHNldCBvZiBmZWF0dXJlcy5zYW0uY21kLnB1c2goZnVuY3Rpb24oKSB7IHNhbS5kaXNwbGF5KCdyZXZpZXctYXBwLXBhZ2UtZGVza3RvcCcpOyB9KTtGb3Igc3BlY2lhbGl6ZWQgbmV0d29ya2luZyB1c2VEZXNwaXRlIGl0cyBzcGVjaWFsaXplZCBwdXJwb3NlIGFuZCB3aWRlIHJhbmdlIG9mIEROUy1yZWxhdGVkIGFwcGxpY2F0aW9ucywgRE5TIEp1bXBlciBjb21lcyBpbiBhIHZlcnkgc21hbGwgZmlsZSBzaXplIG9mIG9ubHkgNTQ2LjY5S0LigJNzbWFsbGVyIHRoYW4gbWlkLXJhbmdlIGltYWdlIGZpbGVzIG9yIGEgc2luZ2xlIE1QMyBzb25nLiBFdmVuIGZvciBwZW9wbGUgd2l0aG91dCBhIGNvbnN0YW50IG5lZWQgdG8gbWFrZSBjaGFuZ2VzIHRvIHRoZWlyIEROUyBjb25maWd1cmF0aW9uc+KAk2xpa2UgY2FzdWFsIHVzZXJzLCBzdHVkZW50cywgb3Igb3RoZXIgbm9uLXByb2Zlc3Npb25hbCB1c2Vyc+KAk3RoZXkgY2FuIGtlZXAgdGhpcyBhcHAgd2l0aG91dCB3b3JyeWluZyBtdWNoIGFib3V0IHN0b3JhZ2Ugc3BhY2Ugb3IgaGFyZHdhcmUgcmVzb3VyY2VzLlRvIHVzZSB0aGUgYXBwIHRvIGl0cyBmdWxsZXN0LCB0aGVyZSBpcyBhIG5lZWQgZm9yIHRlY2huaWNhbCBza2lsbHMgYW5kIGFuIHVuZGVyc3RhbmRpbmcgb2YgaG93IGludGVybmV0IGNvbW11bmljYXRpb24gd29ya3MuIEhvd2V2ZXIsIHlvdSBjYW4gYWx3YXlzIGZvbGxvdyBmb3J1bXMgYW5kIHR1dG9yaWFscyB0byBwZXJmb3JtIGFueSBvZiB0aGUgcHJvZ3JhbeKAmXMgc3BlY2lhbGl6ZWQgYWN0aXZpdGllcy4gV2l0aCB0aGUgcmlnaHQgc2V0dGluZ3MsIHlvdSBjYW4gYWNjZXNzIGJsb2NrZWQgc2l0ZXMsIGNob29zZSB3aGljaCBzZXJ2ZXIgeW91IHdhbnQgdG8gY29ubmVjdCB0byBvciBzZXQgcmVzdHJpY3Rpb25zIG9uIHlvdXIgc3lzdGVtIHRvIHByb3RlY3QgY2hpbGRyZW4gZnJvbSBpbmFwcHJvcHJpYXRlIGNvbnRlbnQuTGFzdGx5LCBhbGwgdGhlIHNldHRpbmdzIHlvdSBjcmVhdGUgb3IgcmVjb25maWd1cmUgZHVyaW5nIHlvdXIgc2Vzc2lvbiBjYW4gYmUgc2F2ZWQgaW4gcHJvZmlsZXMsIHdoaWNoIHlvdSBjYW4ganVzdCBjb252ZW5pZW50bHkgcHVsbCB1cCB0aGUgbmV4dCB0aW1lIHlvdSBuZWVkIHRoZW0uIEluc3RlYWQgb2YgcHJvdmlkaW5nIGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVkIGNvbmZpZ3VyYXRpb25zLCB0aGlzIGFwcCBsZXRzIHlvdSBidWlsZCB0aGVtIG1hbnVhbGx5LCBhbGxvd2luZyB5b3UgdG8gZmluZCB0aGUgYmVzdCBwb3NzaWJsZSBzZXR1cCBmb3IgeW91ciBkZXZpY2UuIFlvdSBjYW4gYWxzbyBjbGVhciB0aGVtIGF0IG9uY2Ugd2l0aCB0aGUgRmx1c2ggRE5TIGNvbW1hbmQuQ292ZXJpbmcgYWxsIGJhc2VzT25lIG9mIHRoZSBtb3N0IGNvbW1vbiB1c2VzIG9mIHRoaXMgYXBwIGlzIHRvIGxldCB5b3UgY2hvb3NlIHRoZSBiZXN0IG5ldHdvcmsgY29ubmVjdGlvbi4gVHlwaWNhbGx5LCB0aGUgSW50ZXJuZXQgU2VydmljZSBQcm92aWRlciAoSVNQKSBhdXRvbWF0aWNhbGx5IHJvdXRlcyB5b3UgdG8gdGhlIGJlc3QgcGF0aCBhdmFpbGFibGUsIGNvbm5lY3RpbmcgeW91ciBkZXZpY2UgdG8gdGhlIG9wdGltYWwgc2VydmVyIGF0IGEgZ2l2ZW4gdGltZS4gSG93ZXZlciwgd2l0aCB0aGlzIGFwcCwgeW91IGNhbiBtYW51YWxseSBjaG9vc2UgeW91ciBjb25uZWN0aW9ucy4gVGhpcyBtZWFucyB0aGF0IGlmIHlvdSB0cnkgYW5vdGhlciBjb25uZWN0aW9uIGFuZCBpdCBzaG93cyBiZXR0ZXIgdHJhbnNmZXIgc3BlZWRzLCB0aGVuIHlvdSBjYW4ganVzdCBzd2l0Y2ggdGhlcmUuSG93ZXZlciwgaWYgeW914oCZcmUgbm90IGxvb2tpbmcgZm9yIGEgd2lkZS1yYW5nZSBETlMgY29uZmlndXJhdGlvbiBhcHAsIHRoZXJlIGFyZSBvdGhlciBiZXR0ZXIgYXBwcyBmb3Igc3BlY2lhbGl6ZWQgYXBwbGljYXRpb25zIHRoYW4gRE5TIEp1bXBlci4gRm9yIGV4YW1wbGUsIGlmIHlvdeKAmXJlIGxvb2tpbmcgZm9yIGEgYmVuY2htYXJrIHV0aWxpdHkgdGhhdOKAmXMgZmFzdGVyIGFuZCBjYW4gb2ZmZXIgaW5kaXZpZHVhbGl6ZWQgc2VhcmNoIHJlc3VsdHMsIG5hbWViZW5jaCBpcyBhIGJldHRlciBhbHRlcm5hdGl2ZS4gT3IgaWYgeW914oCZcmUgbG9va2luZyBmb3IgYSBzbW9vdGggYnJvd3NpbmcgZXhwZXJpZW5jZSBiZXR3ZWVuIHByZXNldCBwcm9maWxlcywgTmV0U2V0TWFuIGlzIGEgcmVjb21tZW5kZWQgc29sdXRpb24uT25jZSB0aGUgZ29sZCBzdGFuZGFyZFdoaWxlIHRoZXJlIHJlbWFpbnMgbm8gc29mdHdhcmUgdGhhdCBjb3ZlcnMgdGhlIGxhcmdlIGdyb3VuZCB0aGF0IEROUyBKdW1wZXIgZG9lcywgYSBudW1iZXIgb2Ygc2VwYXJhdGUgc29mdHdhcmUgY2FuIGJlYXQgaXQgaW4gc3BlY2lhbGl6ZWQgYXBwbGljYXRpb25zLiBVbmxlc3MgeW91IGhhdmUgYSB3aWRlIHZhcmlldHkgd2l0aCB5b3VyIEROUyBjb25maWd1cmF0aW9uIHJlcXVpcmVtZW50cywgeW91IGNhbiB0cnkgb3RoZXIgYWx0ZXJuYXRpdmVzLiBIb3dldmVyLCB3aXRoIGl0cyBwb3J0YWJpbGl0eSwgc21hbGwgZmlsZSBzaXplLCBhbmQgY2FwYWJpbGl0aWVzLCB0aGlzIEROUyBjb25maWd1cmF0aW9uIHBsYXRmb3JtIGlzbuKAmXQgZ29pbmcgYW55d2hlcmUgYW55dGltZSBzb29uLlRoaXMgcHJvZ3JhbSBzdXBwb3J0cyB0aGUgZm9sbG93aW5nIFdpbmRvd3MgcGxhdGZvcm1zOiAxMSwgMTAsIDguMSwgOCwgNywgVmlzdGEu"
+img: "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/28624700-96d2-11e6-904d-00163ec9f5fa/1144516575/dns-jumper-2018-09-25_17-46-32.png"
+use_article: no
+published: true
+---
+## Introduction
+
+DNS (Domain Name System) is responsible for resolving domain names into IP addresses. It's an essential service for navigating the internet. Often, DNS settings are handled by your ISP or network administrator. However, there may be instances where you want more control over your connection, such as blocking specific websites, bypassing censorship, or improving performance.
+
+This is where DNS Jumper comes in. It's a popular and user-friendly software that provides a graphical interface for managing DNS servers. In this article, we'll explore its features and benefits.
+
+## Key Features
+
+DNS Jumper is a versatile program that offers a range of features:
+
+### DNS Switching
+
+DNS Jumper allows you to quickly switch between different DNS servers, including popular ones like OpenDNS, Google DNS, and Comodo Secure DNS. This is useful for testing and comparing servers, as well as accessing region-restricted content.
+
+### Custom DNS
+
+You can also add custom DNS servers to the list, which is handy if you have specific requirements. For example, you may prefer a DNS server that blocks ads or malware.
+
+### DNS Benchmarking
+
+DNS Jumper includes a DNS benchmark tool that measures the response time of different servers. This can help you select the fastest and most reliable server for your needs.
+
+### DNS Flushing
+
+DNS caching can sometimes cause problems, such as outdated or incorrect entries. DNS Jumper allows you to flush the DNS cache, which is a simple but effective way to resolve these issues.
+
+### Portable Version
+
+DNS Jumper is available as a portable version, meaning you don't need to install it on your system. This is convenient if you want to use it on multiple devices or if you don't have administrative privileges.
+
+## Benefits
+
+Here are some of the benefits of using DNS Jumper:
+
+### Improved Performance
+
+By selecting a faster and more reliable DNS server, you can improve your internet speed and reduce latency. This is especially true if your ISP's DNS server is slow or overloaded.
+
+### Enhanced Security
+
+Some DNS servers offer additional security features, such as malware and phishing protection. By using a secure DNS server, you can reduce the risk of online threats.
+
+### Bypass Censorship
+
+In some countries, internet censorship is prevalent, and access to certain websites and services is restricted. By using a DNS server outside the restricted country, you can bypass these restrictions.
+
+### Block Websites
+
+DNS Jumper allows you to block specific websites by redirecting them to a non-existent IP address. This can be useful for parental control, productivity, or security reasons.
+
+## Conclusion
+
+DNS Jumper is an excellent tool for managing DNS servers, providing a simple and intuitive interface for both beginners and advanced users. By using it, you can enjoy faster internet speed, enhanced security, and more flexibility over your internet connection. Give it a try and see the benefits for yourself!

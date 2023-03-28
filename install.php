@@ -77,7 +77,7 @@ plugins:
 		foreach($_POST["category_name"] as $k => $category_name){
 			if(!$category_name){continue;}
 			$cat_desc = $_POST["category_description"][$k];
-			$cat_slug = slugify($category_name);
+			$cat_slug = $_POST["slug"][$k];
 			
 			$cat_front_matter = "---
 layout: category
@@ -177,14 +177,22 @@ permalink: /about/
 		  <thead>
 			<tr>
 			  <th>Kategori Adı</th>
+			  <th>Kategori Adı</th>
 			  <th>Kısa Tanım (SEO için)</th>
 			</tr>
 		  </thead>
 		  <tbody>
+		  <?php 
+			$sluggg = json_decode(file_get_contents("../slugname.json"), 1);
+			$desccc = json_decode(file_get_contents("../appdesc.json"), 1);
+			foreach($sluggg as $slug => $name){
+		  ?>
 			<tr>
-			  <td><input type="text" class="form-control" name="category_name[]" required></td>
-			  <td><input type="text" class="form-control" name="category_description[]" required></td>
+			  <td><input type="text" class="form-control" name="slug[]" value = "<?php echo $slug; ?>"></td>
+			  <td><input type="text" class="form-control" name="category_name[]" value = "<?php echo $name; ?>"></td>
+			  <td><input type="text" class="form-control" name="category_description[]" value = "<?php echo $desccc[$name]; ?>"></td>
 			</tr>
+		  <?php } ?>
 		  </tbody>
 		</table>
 		<button type = "button" id="add-row-btn" class="btn btn-primary" style = "float:right">Add Row</button>

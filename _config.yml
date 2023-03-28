@@ -1,0 +1,550 @@
+title: GetApps
+tagline: 'Secure software download'
+description: 'Our secure software download site offers a trusted and reliable platform for users to safely download software without the risk of security threats.'
+url: https://getapps.info
+repo: GetApps
+google_analytics_id: G-QR97RD712G
+
+permalink: ':categories/:title.html'
+timezone: Europe/Istanbul
+
+exclude: ["z_serve.bat", "*.ai", "install.php"]
+
+collections_dir: data
+collections:
+  action:
+    name: Action in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  adventure:
+    name: Adventure in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  arcade:
+    name: Arcade in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  board:
+    name: Board in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  card:
+    name: Card in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  casino:
+    name: Casino in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  educational:
+    name: Educational in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  family:
+    name: Family in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  music:
+    name: Music in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  puzzle:
+    name: Puzzle in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  racing:
+    name: Racing in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  role-playing:
+    name: Role Playing in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  simulation:
+    name: Simulation in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  sport-games:
+    name: Sports in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  strategy:
+    name: Strategy in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  trivia:
+    name: Trivia in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  utilities:
+    name: Utilities in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  word:
+    name: Word in Games
+    output: true
+    permalink: /:collection/:name.html
+
+  add-ons-tools:
+    name: Add-ons and Tools in Browsers
+    output: true
+    permalink: /:collection/:name.html
+
+  web-browsers:
+    name: Web browsers in Browsers
+    output: true
+    permalink: /:collection/:name.html
+
+  access-control:
+    name: Access Control in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  ad-blockers:
+    name: Ad Blockers in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  anti-spam-anti-spy:
+    name: Anti-Spam and Anti-Spy in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  antivirus:
+    name: Antivirus in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  encryption:
+    name: Encryption in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  firewalls:
+    name: Firewalls in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  keyloggers:
+    name: Keyloggers in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  password-management:
+    name: Password management in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  vpn:
+    name: VPN in Security and Privacy
+    output: true
+    permalink: /:collection/:name.html
+
+  accounting:
+    name: Accounting in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  agenda-calendars:
+    name: Agenda and Calendars in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  banking-atm:
+    name: Banking and ATM in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  calculators-converters:
+    name: Calculators and Converters in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  document-management:
+    name: Document Management in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  e-mail-clients:
+    name: E-mail Clients in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  finance:
+    name: Finance in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  office-suites:
+    name: Office Suites in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  personal-finance-management:
+    name: Personal Finance Management in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  project-management:
+    name: Project Management in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  remote-pc:
+    name: Remote PC in Business and Productivity
+    output: true
+    permalink: /:collection/:name.html
+
+  download-managers:
+    name: Download Managers in Internet and Network
+    output: true
+    permalink: /:collection/:name.html
+
+  file-sharing-peer-to-peer:
+    name: File Sharing and Peer to Peer in Internet and Network
+    output: true
+    permalink: /:collection/:name.html
+
+  search-lookup-tools:
+    name: Search and Lookup tools in Internet and Network
+    output: true
+    permalink: /:collection/:name.html
+
+  wifi:
+    name: Wifi in Internet and Network
+    output: true
+    permalink: /:collection/:name.html
+
+  audio:
+    name: Audio in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  burning:
+    name: Burning in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  graphic-design:
+    name: Graphic and Design in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  movies-tv:
+    name: Movies and TV in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  music-radio:
+    name: Music and Radio in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  photography:
+    name: Photography in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  streaming-videos:
+    name: Streaming videos in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  video:
+    name: Video in Multimedia
+    output: true
+    permalink: /:collection/:name.html
+
+  backup-cloud-storage:
+    name: Backup and Cloud Storage in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  database:
+    name: Database in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  development-kits:
+    name: Development kits in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  ftp-clients:
+    name: FTP Clients in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  ides-source-editors:
+    name: IDEs/Source Editors in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  manual-tutorials:
+    name: Manual and Tutorials in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  networking:
+    name: Networking in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  programming-languages:
+    name: Programming Languages in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  remote-control:
+    name: Remote control in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  servers:
+    name: Servers in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  web-development:
+    name: Web development in Development and IT
+    output: true
+    permalink: /:collection/:name.html
+
+  books:
+    name: Books in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  catalogs:
+    name: Catalogs in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  dictionaries:
+    name: Dictionaries in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  e-readers:
+    name: E-readers in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  geography:
+    name: Geography in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  languages-translation:
+    name: Languages and Translation in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  magazines-newspapers:
+    name: Magazines and Newspapers in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  medicine:
+    name: Medicine in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  science:
+    name: Science in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  teaching-training:
+    name: Teaching and Training in Education and Reference
+    output: true
+    permalink: /:collection/:name.html
+
+  fashion-style:
+    name: Fashion and Style in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  food-drink:
+    name: Food and Drink in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  grocery-lists:
+    name: Grocery lists in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  health-fitness:
+    name: Health and Fitness in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  hobbies:
+    name: Hobbies in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  medical:
+    name: Medical in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  product-reviews-comparison:
+    name: Product reviews and Comparison in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  shopping:
+    name: Shopping in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  sports:
+    name: Sports in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  ticketing-service:
+    name: Ticketing Service in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  weather:
+    name: Weather in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  workout:
+    name: Workout in Lifestyle
+    output: true
+    permalink: /:collection/:name.html
+
+  cursors-fonts:
+    name: Cursors and Fonts in Personalization
+    output: true
+    permalink: /:collection/:name.html
+
+  ringtones-sounds:
+    name: Ringtones and sounds in Personalization
+    output: true
+    permalink: /:collection/:name.html
+
+  screen-lockers:
+    name: Screen lockers in Personalization
+    output: true
+    permalink: /:collection/:name.html
+
+  screen-savers:
+    name: Screen Savers in Personalization
+    output: true
+    permalink: /:collection/:name.html
+
+  themes:
+    name: Themes in Personalization
+    output: true
+    permalink: /:collection/:name.html
+
+  wallpaper:
+    name: Wallpaper in Personalization
+    output: true
+    permalink: /:collection/:name.html
+
+  blog:
+    name: Blog in Social and Communication
+    output: true
+    permalink: /:collection/:name.html
+
+  chat-instant-messaging:
+    name: Chat and Instant Messaging in Social and Communication
+    output: true
+    permalink: /:collection/:name.html
+
+  photo-video-sharing:
+    name: Photo and Video sharing in Social and Communication
+    output: true
+    permalink: /:collection/:name.html
+
+  social-networking:
+    name: Social networking in Social and Communication
+    output: true
+    permalink: /:collection/:name.html
+
+  maps-gps:
+    name: Maps and GPS in Travel and Navigation
+    output: true
+    permalink: /:collection/:name.html
+
+  trip-management:
+    name: Trip management in Travel and Navigation
+    output: true
+    permalink: /:collection/:name.html
+
+  bar-code-scanning:
+    name: Bar code scanning in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  clocks-alarms:
+    name: Clocks and Alarms in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  data-recovery:
+    name: Data Recovery in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  file-compression:
+    name: File Compression in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  file-managers:
+    name: File managers in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  keyboards:
+    name: Keyboards in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  measurement:
+    name: Measurement in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  printer-fax:
+    name: Printer and Fax in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+
+  screen-capture:
+    name: Screen Capture in Utilities and Tools
+    output: true
+    permalink: /:collection/:name.html
+    
+    
+    
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
